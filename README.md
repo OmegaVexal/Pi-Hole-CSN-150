@@ -15,4 +15,4 @@ On the imager click on "Choose OS" click on Rasberry Pi OS(other) and select Ras
 After you chose the OS, Click on storage device and make sure you pick the inserted SD-card
 On the bottom right there will be a  "Settings Wheel" click on it and name your Rasberrypi, Enable SSH, and give it a username and password.( Make sure to remember your user name and password I suggest you take a picture of this page incase you forget.)
 Once all options are selected click on "Write" and let the imager do it's thing.
-Once the imager completes writing on to the card you want to update the "WSL" file 
+Once the imager completes writing on to the card you want to download the the "wsl_supplicant.txt" file and put your SSID after the = on the corresponding field, as well as your password( this is your wifi password) after the = on the pwd field.
