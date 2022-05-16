@@ -1,6 +1,6 @@
 
+![header (1)](https://user-images.githubusercontent.com/98614260/168537431-9d28dc6d-1e43-41b2-b659-9082608d4e56.jpg)
 
-![header](https://user-images.githubusercontent.com/98614260/168535662-9fd5f4f2-565e-4ea6-b16b-3672a3fb72a5.jpg)
 
 
 Hello!, I’m  David Mesa aka @OmegaVexal
