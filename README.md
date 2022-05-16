@@ -3,7 +3,7 @@
 
 
 
-Hello!, I’m  David Mesa aka @OmegaVexal
+Hello!, I’m  David M aka @OmegaVexal
 I’m interested in Raspberry Pi Projects, Python/JavaScrip Programming & Scripts & Pentesting
 I’m currently learning Pyhton on Udemy, Pentesting on Infosec and more Cyber Security concepts
 I’m looking to collaborate on any projects to get my feet wet in the cyber sec/ IT field
